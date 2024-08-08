@@ -5,4 +5,3 @@ it is a runtime environment for javascript so you can run js code outside the br
 
 an engine takes js code, compiles it to machine code, and then transforms it in actions in the server (computer) and adds js features (it was written in C++) so you can use files and other features just by running js code
 */
-
